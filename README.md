@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tzopiz" alt="tzopiz" /></a> </p>
 
-- 🔭 I’m currently working on [VenueWatch](https://github.com/tzopiz/VenueWatch)
+- 🔭 I’m currently working on [VenueWatch](https://github.com/tzopiz/VenueWatch), [DailyDeeds](https://github.com/tzopiz/DailyDeeds)
 
 - 🌱 I’m currently learning **Combine, SwiftUI**
 
