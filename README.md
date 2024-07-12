@@ -28,7 +28,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tzopiz&" alt="tzopiz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tzopiz&show_icons=true&locale=en" alt="tzopiz" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tzopiz&show_icons=true&locale=en" alt="tzopiz" /></p>
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/tzopiz?theme=light&font=Roboto&ext=contest)
